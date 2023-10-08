@@ -1,0 +1,24 @@
+.middle .first{
+    height: 540px;
+    width: 1351px;
+    object-fit: cover;
+    mask-image: linear-gradient(180deg,rgba(0,0,0,1)60%,rgba(0,0,0,0));
+    position: relative;
+}.middle .middle2{
+    
+   display: grid;
+  grid-template-columns: repeat(4,1fr);
+  padding-left: 15px;
+  row-gap: 20px;
+  overflow: hidden;
+  
+  
+   
+   position: relative;
+   top: -250px;
+
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    position: relative;
+    bottom: 120px;
+}

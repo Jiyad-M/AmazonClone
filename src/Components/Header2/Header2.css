@@ -1,0 +1,49 @@
+.header2{
+    background: #232f3e;
+    color: white;
+    height: 39px;
+    justify-content: space-between;
+    display: flex;
+}
+.header2 .ii , 
+
+.header2 .iii {
+    display: inline-flex;
+    border: 1px solid transparent;
+
+}.header2 .iii:hover{
+    border:1px solid white;
+border-radius: 1px;
+
+}
+
+.header2 h2 {
+    display: inline;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0 6px 0;
+}
+
+.header2 h3 {
+    display: inline;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0 6px 0 !important;
+}
+
+.header2 h4 {
+    display: inline;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0 6px 0;
+
+}.header2 .ii1{
+    display: flex;
+    border: 1px solid  transparent;
+
+
+}.header2 .ii1:hover{
+border:1px solid white;
+border-radius: 1px;
+
+}

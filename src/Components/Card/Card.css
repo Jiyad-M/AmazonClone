@@ -1,0 +1,26 @@
+.car{
+    height: 420px;
+    max-width: 316px;
+    padding: 20px 0 15px 0;
+    background: white;
+
+}
+.car h1{
+    font-size: 21px;
+    padding-left: 22px;
+}.car .boxes{
+    padding: 22px;
+}
+.car .inbox{
+    display: flex;
+    justify-content: space-between;
+   
+
+}.car img{
+    width: 130px;
+    height: 116px;
+}.car h6{
+height: 36px;
+font-size: 13px;
+padding-top: 2px;
+}
